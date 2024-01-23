@@ -3,6 +3,10 @@ grocy-headstart
 
 Based on "Grocy" at https://grocy.info/
 
+Based on Grocy iOS (iPhone, iPad) App at https://apps.apple.com/nl/app/grocy-mobile/id1567803209
+
+Based on Grocy MacOS App at https://apps.apple.com/nl/app/grocy-mobile/id1567803209
+
 ERP beyond your fridge
 
 grocy is a web-based self-hosted groceries & household management solution for your home.
